@@ -12,3 +12,20 @@ let i = typeof Symbol();        // Returns "symbol"
 let j = typeof x;               // Returns "undefined"
 
 console.table([a, b, c, d, e, f, g, h, i, j]);
+
+let arr = ["uzair" , "khan" , "ahmed"];  //array
+
+let myobj = {
+    name:"uzair",
+    age:20
+}
+console.log(myobj)
+
+let change = myobj.name = "khan"; //change valle of object
+console.log(myobj);
+
+const func = function(){   //function
+    console.log("uzair khan")
+}
+
+func()   //call function
