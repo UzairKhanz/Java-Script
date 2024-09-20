@@ -1,2 +1,2 @@
-# js_2
-Code repo for js 2
+Java Script
+Code repo for java script
